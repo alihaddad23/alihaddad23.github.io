@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   top: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(148, 120, 120, 0.9);
 }
 #header.header-top .social-links, #header.header-top h2 {
   display: none;
@@ -229,7 +229,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
   transition: 0.5s;
   position: fixed;
-  right: 15px;
+  right: 30px;
   top: 15px;
 }
 
@@ -302,7 +302,7 @@ section.section-show {
   padding-bottom: 45px;
 }
 section .container {
-  background: #c6aeaf;
+  background: #968384d0;
   padding: 30px;
 }
 @media (max-width: 768px) {
@@ -349,7 +349,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #18d26e;
+  color: #c6aeaf;
 }
 .about-me .content ul {
   list-style: none;
